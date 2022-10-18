@@ -1,5 +1,3 @@
-
-
 #!/usr/bin/node
 
 const req = require('request');
